@@ -1,0 +1,57 @@
+.heading{
+    text-align: center;
+}
+
+body{
+    background-image: url(assignment.jpg);
+    background-position:center;
+    background-size:auto;
+    height:96vh;
+    width:96vw;
+}
+
+.hi a{
+    overflow: hidden;
+    text-decoration: none;
+    text-align: left;
+    font-size: 20px;
+    float:right;
+    font-family:monospace;
+    display: block;
+    color:brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hi a:hover{
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.hi a:active{
+    background-color: crimson;
+    overflow: hidden;
+}
+
+.name{
+    font-size: 35px;
+    text-shadow: 2px 2px 2px;
+}
+
+.wish1{
+    padding-left: 300px;
+    font-display: block;
+    font-size: 20px;
+    color: chocolate;
+    
+}
+
+.wish2{
+    padding-left: 1100px;
+    padding-top: 200px;
+    font-display: block;
+    font-size: 20px;
+    color: chocolate;
+}

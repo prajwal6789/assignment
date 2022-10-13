@@ -1,0 +1,4 @@
+This is Yenduri Satyavinay Prajwal. I am currently pursuing my B.tech in Sikkim Manipal Institute Of Technology , Sikkim. I am in my final year of graduation. I am interested in web development field. I am good at HTML , CSS , java script and also good at programming languages like C and Python. Had knowledge in Django , Node.js , MYSQL and MongoDB.
+
+When coming to the assignment tab , i designed it with HTML and CSS. I have included a logo in the title bar. I have included social media links along with home and about tabs.
+Thank you.  
